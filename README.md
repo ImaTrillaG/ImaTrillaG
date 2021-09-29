@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ImaTrillaG but you can call me Drew.
+- 👀 I’m interested in so much more than can be described in the limitations of speech or text.
+- 🌱 I’m currently learning to code my own video game servers.
+- 💞️ I’m looking to collaborate on making the world  better place.
+- 📫 How to reach me: andrewchillin@gmail.com
